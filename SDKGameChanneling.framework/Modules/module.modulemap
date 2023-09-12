@@ -1,0 +1,11 @@
+framework module SDKGameChanneling {
+  umbrella header "SDKGameChanneling.h"
+
+  export *
+  module * { export * }
+}
+
+module SDKGameChanneling.Swift {
+  header "SDKGameChanneling-Swift.h"
+  requires objc
+}
