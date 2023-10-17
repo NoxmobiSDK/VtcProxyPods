@@ -2,8 +2,8 @@
 
 # ===============修改podspec的版本号===========================
 
-CoreName="NoxPaySDK"
-PodName="NoxPay-Beta"
+CoreName="SDKGameChanneling"
+PodName="NoxVtcProxy"
 
 echo "\n🔥当前版本号："
 # 读取plist中的版本号
